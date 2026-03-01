@@ -12,6 +12,7 @@ This repo contains the messages that Abiy Ahmed Ali, the Prime Minister of Ethio
 ## Victory Messages
 | N<sup>th</sup> | Date | Links | Message Content |
 |---------|------------|-------|----------------|
+| 130 | Mar 1, 2026 | [Twitter](https://x.com/AbiyAhmedAli/status/2028093074040029244), [Facebook](https://www.facebook.com/PMAbiyAhmedAli/posts/pfbid021i8dyTJpi5u1aEATQH3QV1MjWyq9jy2s5eED4wfreJYsRxJhhoorfYqFjYFECbdol) | [Adwa_130.pdf](./docs/pdf/Adwa_130.pdf) \| [Adwa_130.md](./docs/text/Adwa_130.md) |
 | 129 | Mar 1, 2025 | [Twitter](https://x.com/AbiyAhmedAli/status/1895745053060173824) | [Adwa_129.pdf](./docs/pdf/Adwa_129.pdf) \| [Adwa_129.md](./docs/text/Adwa_129.md) |
 | 128 | Mar 1, 2024 | [PMO](https://www.pmo.gov.et/media/documents/Adwa_1281.pdf), [Twitter](https://x.com/AbiyAhmedAli/status/1763566399203491856), [Facebook](https://www.facebook.com/PMAbiyAhmedAli/posts/pfbid0iAXTUdoSnKzX78gRmuH8yTfXPZzNqEZLGKcwpEQZBZEEA1Csp7etsDrQwnzpz3VYl) | [Adwa_128.pdf](./docs/pdf/Adwa_128.pdf) \| [Adwa_128.md](./docs/text/Adwa_128.md) |
 | 127 | Mar 1, 2023 | [Twitter](https://x.com/AbiyAhmedAli/status/1630849375957139457), [Facebook](https://www.facebook.com/profile/100044183688553/search/?q=%E1%8B%A8%E1%8B%90%E1%8B%B5%E1%8B%8B%20%E1%8B%B5%E1%88%8D) | [Adwa_127.pdf](./docs/pdf/Adwa_127.pdf) \| [Adwa_127.md](./docs/text/Adwa_127.md) |
